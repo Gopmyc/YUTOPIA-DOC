@@ -50,6 +50,6 @@
 
 ### Références croisée
 
-- Pour le système de combat global, consultez [Système de Combat](combat.md).
+- Pour le système de combat global, consultez [Système de Combat](COMBAT.md).
 
 [Retour au sommaire](#sommaire)
