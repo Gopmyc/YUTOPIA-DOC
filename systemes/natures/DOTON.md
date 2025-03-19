@@ -153,12 +153,11 @@ L'utilisateur érige un mur de pierre devant lui avant de le faire s’effondrer
 
 ---
 
-### 5. Entrave de boue
+### 5. Entrave de pierre
 
 **### DESCRIPTION ###**
 
-L’utilisateur bloque son adversaire avec de la boue pendant 'x' secondes.  
-La boue, se contractant, inflige des dommages.
+L’utilisateur lance un projectile, si l'adversaire est tocuhé il est immobilisé pendant 'x' temps.
 
 ---
 
