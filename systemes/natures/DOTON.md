@@ -124,11 +124,18 @@ Les pierres possèdent des points de vie et sont destructibles.
 
 ---
 
-### 4. Armure de boue
+### 4. Écrasement Terrestre
 
 **### DESCRIPTION ###**
 
-L’utilisateur crée une armure de boue qui octroie 50% de résistance pendant 'x" secondes.
+L'utilisateur érige un mur de pierre devant lui avant de le faire s’effondrer violemment vers l’avant, écrasant tout sur son passage sous un poids écrasant de roche.
+
+
+
+
+
+
+.
 
 ---
 
