@@ -158,7 +158,7 @@ L'utilisateur érige un mur de pierre devant lui avant de le faire s’effondrer
 **### DESCRIPTION ###**
 
 L’utilisateur bloque son adversaire avec de la boue pendant 'x' secondes.  
-La boue, se contractant, inflige des dommages petit à petit (comme une brûlure).
+La boue, se contractant, inflige des dommages.
 
 ---
 
