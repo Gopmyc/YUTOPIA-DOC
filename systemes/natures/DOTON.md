@@ -104,7 +104,7 @@ Le mur peut etre desactivé via clique molette.
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme une série de 6 pierres qui sont propulsées en ligne.  
+L’utilisateur envoie une serie de 6 pierre en raffale.
 Les pierres possèdent des points de vie et sont destructibles.
 
 ---
