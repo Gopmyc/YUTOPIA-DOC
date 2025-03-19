@@ -79,7 +79,7 @@ L’utilisateur forme une multitude de silex qui tournent autour de lui, empêch
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme un mur de boue à 100 unités de lui.  
+L’utilisateur forme un mur de boue à 'x' unités de lui.  
 Le mur possède des points de vie et est destructible.  
 
 ---
