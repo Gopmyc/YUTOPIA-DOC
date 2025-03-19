@@ -80,7 +80,8 @@ L’utilisateur forme une multitude de silex qui tournent autour de lui, empêch
 **### DESCRIPTION ###**
 
 L’utilisateur forme un mur de boue à 'x' unités de lui.  
-Le mur possède des points de vie et est destructible.  
+Le mur possède des points de vie et est destructible.
+Le mur peut etre desactivé via clique molette.
 
 ---
 
