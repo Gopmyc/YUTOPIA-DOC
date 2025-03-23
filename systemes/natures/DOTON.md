@@ -23,7 +23,6 @@
 5. [RANG S](#rang-s)
    - [Tremblement de terre](#tremblement-de-terre)
    - [Météores](#meteorites)
-   - [Absorption des coups](#absorption-des-coups)
 
 ---
 
