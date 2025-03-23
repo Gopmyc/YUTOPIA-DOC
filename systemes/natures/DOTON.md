@@ -4,19 +4,19 @@
 1. [Informations Générales sur les Sweps](#informations-generales-sur-les-sweps)
 2. [RANG C](#rang-c)
    - [Protection des silex](#protection-des-silex)
-   - [Mur de boue](#mur-de-boue)
+   - [Mur de pierre](#mur-de-pierre)
    - [Série de pierre](#serie-de-pierre)
-   - [Armure de boue](#armure-de-boue)
-   - [Entrave de boue](#entrave-de-boue)
+   - [Ecrasement terrestre](#ecrasement-terrestre)
+   - [Entrave de pierre](#entrave-de-pierre)
 3. [RANG B](#rang-b)
-   - [Eboulement de terre](#eboulement-de-terre)
+   - [Projection terrestre](#projection-terrestre)
    - [Demi Dôme](#demi-dome)
-   - [Motte de terre](#motte-de-terre)
+   - [Motte de pierre](#motte-de-pierre)
    - [Marécage](#marecage)
    - [Vers de terre](#vers-de-terre)
 4. [RANG A](#rang-a)
-   - [Pierre écrasante](#pierre-ecrasante)
-   - [Geôle de terre](#geole-de-terre)
+   - [Pilier terrestre](#pilier-terrestre)
+   - [Geôle de pierre](#geole-de-pierre)
    - [Empalement](#empalement)
    - [Cercueil de pierre](#cercueil-de-pierre)
    - [Armure de pierre](#armure-de-pierre)
@@ -74,11 +74,11 @@ L’utilisateur forme une multitude de silex qui tournent autour de lui, empêch
 
 ---
 
-### 2. Mur de boue
+### 2. Mur de pierre
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme un mur de boue à 'x' unités de lui.  
+L’utilisateur forme un mur de pierre à 'x' unités de lui.  
 Le mur possède des points de vie et est destructible.
 Le mur peut etre desactivé via clique molette.
 
@@ -291,11 +291,11 @@ Clique gauche : L’utilisateur rentre dans le sol afin de s’y déplacer penda
 
 ## RANG A
 
-### 1. Pillier de Terre
+### 1. Pillier Terrestre
 
 **### DESCRIPTION ###**
 
-L’utilisateur fait sortir de sous c'est pieds un pillier de terre et le projetant vers le haut.
+L’utilisateur fait sortir de sous c'est pieds un pillier terrestre et le projetant vers le haut.
 
 ---
 
@@ -314,11 +314,11 @@ L’utilisateur fait sortir de sous c'est pieds un pillier de terre et le projet
 
 ---
 
-### 2. Geôle de terre
+### 2. Geôle de pierre
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme un dôme de terre qui l’enveloppe, la geaolle pocede des point de vie et est destructible.
+L’utilisateur forme un dôme de pierre qui l’enveloppe, la geaolle pocede des point de vie et est destructible.
 
 ---
 
