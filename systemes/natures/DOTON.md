@@ -23,7 +23,6 @@
 5. [RANG S](#rang-s)
    - [Tremblement de terre](#tremblement-de-terre)
    - [Météores](#meteorites)
-   - [Absorption des coups](#absorption-des-coups)
 
 ---
 
@@ -79,8 +78,9 @@ L’utilisateur forme une multitude de silex qui tournent autour de lui, empêch
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme un mur de boue à 100 unités de lui.  
-Le mur possède des points de vie et est destructible.  
+L’utilisateur forme un mur de boue à 'x' unités de lui.  
+Le mur possède des points de vie et est destructible.
+Le mur peut etre desactivé via clique molette.
 
 ---
 
@@ -103,7 +103,7 @@ Le mur possède des points de vie et est destructible.
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme une série de 6 pierres qui sont propulsées en ligne.  
+L’utilisateur envoie une serie de 6 pierre en raffale.
 Les pierres possèdent des points de vie et sont destructibles.
 
 ---
@@ -123,11 +123,11 @@ Les pierres possèdent des points de vie et sont destructibles.
 
 ---
 
-### 4. Armure de boue
+### 4. Écrasement Terrestre
 
 **### DESCRIPTION ###**
 
-L’utilisateur crée une armure de boue qui octroie 50% de résistance pendant 'x" secondes.
+L'utilisateur érige un mur de pierre devant lui avant de le faire s’effondrer violemment vers l’avant, écrasant tout sur son passage sous un poids écrasant de roche.
 
 ---
 
@@ -145,12 +145,11 @@ L’utilisateur crée une armure de boue qui octroie 50% de résistance pendant 
 
 ---
 
-### 5. Entrave de boue
+### 5. Entrave de pierre
 
 **### DESCRIPTION ###**
 
-L’utilisateur bloque son adversaire avec de la boue pendant 'x' secondes.  
-La boue, se contractant, inflige des dommages petit à petit (comme une brûlure).
+L’utilisateur lance un projectile, si l'adversaire est tocuhé il est immobilisé pendant 'x' temps.
 
 ---
 
@@ -171,11 +170,11 @@ La boue, se contractant, inflige des dommages petit à petit (comme une brûlure
 
 ## RANG B
 
-### 1. Eboulement de terre
+### 1. Projection Terrestre
 
 **### DESCRIPTION ###**
 
-L’utilisateur attire une multitude de cailloux depuis son dos, les projetant en face de lui pendant 'x' secondes.  
+L’utilisateur attire une multitude de cailloux depuis son dos, les projetant en face de lui.  
 Les cailloux possèdent des points de vie et sont destructibles.
 
 ---
@@ -219,7 +218,7 @@ Le dôme possède des points de vie et est destructible.
 
 ---
 
-### 3. Motte de terre
+### 3. Motte de pierre
 
 **### DESCRIPTION ###**
 
@@ -248,7 +247,7 @@ La motte possède des points de vie et est destructible.
 **### DESCRIPTION ###**
 
 L’utilisateur change la surface du sol créant alors une zone marécageuse.  
-Bloque et aspire toute personne pendant x temps.
+Ralentit toute personne dans la zone pendant x temps.
 
 ---
 
@@ -292,12 +291,11 @@ Clique gauche : L’utilisateur rentre dans le sol afin de s’y déplacer penda
 
 ## RANG A
 
-### 1. Pierre écrasante
+### 1. Pillier de Terre
 
 **### DESCRIPTION ###**
 
-L’utilisateur fait tomber une grande masse de pierre du ciel.  
-La masse de pierre possède des points de vie et est destructible.
+L’utilisateur fait sortir de sous c'est pieds un pillier de terre et le projetant vers le haut.
 
 ---
 
@@ -320,7 +318,7 @@ La masse de pierre possède des points de vie et est destructible.
 
 **### DESCRIPTION ###**
 
-L’utilisateur forme un dôme de terre qui l’enveloppe
+L’utilisateur forme un dôme de terre qui l’enveloppe, la geaolle pocede des point de vie et est destructible.
 
 ---
 
@@ -343,7 +341,7 @@ L’utilisateur forme un dôme de terre qui l’enveloppe
 
 **### DESCRIPTION ###**
 
-L’utilisateur fait sortir une multitude de pointes de terre de la surface pour empaler son adversaire.
+L’utilisateur fait sortir une multitude de pointes de terre les uns apres les autres de la surface pour empaler son adversaire.
 
 ---
 
@@ -366,7 +364,7 @@ L’utilisateur fait sortir une multitude de pointes de terre de la surface pour
 
 **### DESCRIPTION ###**
 
-L’utilisateur recouvre son adversaire de plusieurs rochers qui le maintiennent en place.  
+L’utilisateur recouvre son adversaire de plusieurs rochers qui maintiennent en place l'utilisateur.  
 Les rochers sont destructibles.
 
 ---
@@ -390,7 +388,8 @@ Les rochers sont destructibles.
 
 **### DESCRIPTION ###**
 
-L’utilisateur crée une armure de pierre sur son corps, augmentant de 'x'% ses points de vie.
+L’utilisateur crée une armure de pierre sur son corps, augmentant de 'x'% son armure.
+L'utilisateur est ralentit, modification la formes phisique de l'utilisateur > a voir avec Tres
 
 ---
 
@@ -415,7 +414,8 @@ L’utilisateur crée une armure de pierre sur son corps, augmentant de 'x'% ses
 
 **### DESCRIPTION ###**
 
-L’utilisateur fait trembler la terre autour de lui, créant des secousses puissantes qui endommagent tout sur leur passage.
+L’utilisateur fait trembler la terre autour de lui, créant des secousses puissantes qui endommagent tout sur leur passage et
+creant des vagues de degats. Tremblement de la visions dans la PVS
 
 ---
 
@@ -440,30 +440,6 @@ L’utilisateur fait trembler la terre autour de lui, créant des secousses puis
 
 L’utilisateur invoque plusieurs météores venant du ciel pour frapper son adversaire.  
 Les météores possèdent des points de vie et sont destructibles.
-
----
-
-**### DONNÉES ###**
-
-| PROPRIETE             | VALEUR           | ÉCHELLE         |
-|-----------------------|------------------|-----------------|
-| **DÉGÂTS**            |0|None|
-| **CHAKRA**            |0|None|
-| **COOLDOWN**          |0|secondes|
-
----
-
-**### REFS/ILLUSTRATION ###**  
-*None*
-
----
-
-### 3. Absorption des coups
-
-**### DESCRIPTION ###**
-
-L’utilisateur absorbe une quantité de dégâts, les transformant en chakra et les régénérant petit à petit.  
-Les dégâts absorbés ne sont pas directement convertis en chakra, mais sont divisés par 'x' pour obtenir la quantité absorbée.
 
 ---
 
