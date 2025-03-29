@@ -1,5 +1,3 @@
-Je m'excuse pour l'erreur ! Voici le sommaire corrigé sans les ajouts non demandés :
-
 # **Natures de Chakra - Suiton (Eau)**  
 
 ## **Sommaire**
