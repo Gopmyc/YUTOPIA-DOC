@@ -1,32 +1,30 @@
-# **Natures de Chakra - Suiton (Eau)**  
+# **Natures de Chakra - Katon (Feu)**  
 
 ## **Sommaire**
 1. [Informations Générales sur les Sweps](#informations-générales-sur-les-sweps)  
 2. [RANG C](#rang-c)  
-   - [Souffle d’eau](#souffle-deau)  
-   - [Barrière d’eau](#barrière-deau)  
-   - [Pluie torrentielle](#pluie-torrentielle)  
-   - [Vague de bulles](#vague-de-bulles)  
-   - [Prison aqueuse](#prison-aqueuse)  
+   - [Danse des flammes](#danse-des-flammes)  
+   - [Barrière de flammes](#barrière-de-flammes)  
+   - [Pluie incendiaire](#pluie-incendiaire)  
+   - [Manipulation des flammes](#manipulation-des-flammes)  
+   - [Chaînes ardentes](#chaînes-ardentes)  
 3. [RANG B](#rang-b)  
-   - [Geyser](#geyser)  
-   - [Effondrement océanique](#effondrement-océanique)  
-   - [Vague aquatique](#vague-aquatique)  
-   - [Explosion aqueuse](#explosion-aqueuse)  
-   - [Vers d’eau](#vers-deau)  
+   - [Embrasement](#embrasement)  
+   - [Explosion ardente](#explosion-ardente)  
+   - [Boules de feu](#boules-de-feu)  
+   - [Mur de feu](#mur-de-feu)  
+   - [Dash enflammé](#dash-enflammé)  
 4. [RANG A](#rang-a)  
-   - [Grand Tourbillon](#grand-tourbillon)  
-   - [Dôme aqueux](#dôme-aqueux)  
-   - [Danse Aqueuse](#danse-aqueuse)  
-   - [Inondation partielle](#inondation-partielle)  
-   - [Recharge de chakra](#recharge-de-chakra)  
+   - [Grande boule de feu](#grande-boule-de-feu)  
+   - [Dôme ardent](#dôme-ardent)  
+   - [Souffle ardent](#souffle-ardent)  
+   - [Nuage ardent](#nuage-ardent)  
+   - [Expulsion Ardente](#expulsion-ardente)  
 5. [RANG S](#rang-s)  
-   - [Typhon](#typhon)  
-   - [Grande Cataracte](#grande-cataracte)  
+   - [Tornade](#tornade)  
+   - [Pluie de météorites](#pluie-de-météorites)  
 
 ---
-
-Cette fois, tout est bien conforme aux techniques précédemment définies.
 
 ## Informations Générales sur les Sweps
 
@@ -41,15 +39,16 @@ Cette fois, tout est bien conforme aux techniques précédemment définies.
   Chaque technique consomme du **chakra** lors de son activation. La quantité de chakra utilisée dépend de la puissance et de la complexité de la technique.
 
 - **Cooldown des techniques :**  
-  Un **cooldown** est appliqué après l'utilisation de chaque technique. Cela permet de réguler l'utilisation abusive des techniques puissantes et d'encourager une stratégie réfléchie.  
+  Un **cooldown** est appliqué après l'utilisation de chaque technique. Cela permet de réguler l'utilisation abusive des techniques puissantes et d'encourager une stratégie réfléchie.
 
 ---
+
 ## **RANG C**  
 
-### **1. Souffle d’eau**  
+### **1. Danse des flammes**  
 
 **### DESCRIPTION ###**  
-L’utilisateur crache de l’eau à courte distance, repoussant les ennemis touchés.  
+L’utilisateur forme un disque de feu autour de lui qui peut lui servir pour dissuader ou attaquer. Il ralentit les ennemis dans la zone.  
 
 ---  
 
@@ -68,10 +67,10 @@ L’utilisateur crache de l’eau à courte distance, repoussant les ennemis tou
 
 ---
 
-### **2. Barrière d’eau**  
+### **2. Barrière de flammes**  
 
 **### DESCRIPTION ###**  
-Crée une barrière d’eau pendant **5 secondes**, bloquant les attaques inférieures à **40 de dégâts**.  
+L’utilisateur crée une barrière de feu pendant **x secondes**, bloquant les attaques inférieures à **40 de dégâts**. Provoque des dégâts au contact.  
 
 ---  
 
@@ -90,10 +89,10 @@ Crée une barrière d’eau pendant **5 secondes**, bloquant les attaques infér
 
 ---
 
-### **3. Pluie torrentielle**  
+### **3. Pluie incendiaire**  
 
 **### DESCRIPTION ###**  
-Une pluie ralentit la vitesse des ennemis de **20% pendant 5 secondes**.  
+L’utilisateur provoque une pluie de boules de feu, ralentissant les ennemis dans la zone.  
 
 ---  
 
@@ -112,10 +111,10 @@ Une pluie ralentit la vitesse des ennemis de **20% pendant 5 secondes**.
 
 ---
 
-### **4. Vague de bulles**  
+### **4. Manipulation des flammes**  
 
 **### DESCRIPTION ###**  
-Crée des bulles qui explosent au contact, infligeant de faibles dégâts de zone.  
+L’utilisateur forme et projette plusieurs boules de feu qui explosent au contact (**x3**). Les boules de feu autolock à partir d’une certaine distance de la cible et les poursuivent.  
 
 ---  
 
@@ -134,10 +133,10 @@ Crée des bulles qui explosent au contact, infligeant de faibles dégâts de zon
 
 ---
 
-### **5. Prison aqueuse**  
+### **5. Chaînes ardentes**  
 
 **### DESCRIPTION ###**  
-Bloque un ennemi dans une sphère d’eau pendant **4 secondes**.  
+L’utilisateur bloque son adversaire avec une chaîne ardente pendant **x secondes**. La chaleur inflige des dommages progressivement, comme une brûlure.  
 
 ---  
 
@@ -158,10 +157,10 @@ Bloque un ennemi dans une sphère d’eau pendant **4 secondes**.
 
 ## **RANG B**  
 
-### **6. Geyser**  
+### **6. Embrasement**  
 
 **### DESCRIPTION ###**  
-L’utilisateur fait jaillir de l’eau du sol soulevant alors sa cible..  
+L’utilisateur fait jaillir du feu du sol, projetant la cible en l’air.  
 
 ---  
 
@@ -180,10 +179,10 @@ L’utilisateur fait jaillir de l’eau du sol soulevant alors sa cible..
 
 ---
 
-### **7. Effondrement océanique**  
+### **7. Explosion ardente**  
 
 **### DESCRIPTION ###**  
-L’utilisateur crée un tourbillon bloquant alors les ennemis dans la zone.  
+L’utilisateur concentre ses flammes avant de tout relâcher à 360°, propulsant la cible touchée à l’opposé.  
 
 ---  
 
@@ -202,10 +201,10 @@ L’utilisateur crée un tourbillon bloquant alors les ennemis dans la zone.
 
 ---
 
-### **8. Vague aquatique**  
+### **8. Boules de feu**  
 
 **### DESCRIPTION ###**  
-L’utilisateur déploie une grande masse d’eau afin de former une vague qui est projeté. 
+L’utilisateur déploie **cinq** boules de feu projetées en cône. Les boules de feu explosent au contact.  
 
 ---  
 
@@ -224,11 +223,10 @@ L’utilisateur déploie une grande masse d’eau afin de former une vague qui e
 
 ---
 
-### **9. Explosion aqueuse**  
+### **9. Mur de feu**  
 
 **### DESCRIPTION ###**  
-L’utilisateur charge de l’eau avant de tout relâcher à 360°. 
-L’eau entoure l’utilisateur touchant toutes personnes présente à x unités de lui.  
+L’utilisateur déploie une grande colonne enflammée sortant du sol qu’il peut contrôler pour former la structure souhaitée. (Wall de phoenix). Le mur est physiquement traversable.  
 
 ---  
 
@@ -247,12 +245,10 @@ L’eau entoure l’utilisateur touchant toutes personnes présente à x unités
 
 ---
 
-### **10. Vers d’eau**  
+### **10. Dash enflammé**  
 
 **### DESCRIPTION ###**  
-Clique gauche : L’utilisateur rentre dans le sol afin de s’y déplacer pendant x temps.
-Clique droit : L’utilisateur remonte à la surface
-  
+L’utilisateur locke sa cible. Une fois lockée, il dash vers elle pour la traverser.  
 
 ---  
 
@@ -270,12 +266,13 @@ Clique droit : L’utilisateur remonte à la surface
 *None*  
 
 ---
+
 ## **RANG A**  
 
-### **11. Grand Tourbillon**  
+### **11. Grande boule de feu**  
 
 **### DESCRIPTION ###**  
-L’utilisateur crée un tourbillon créant une force d’attraction très forte.  
+L’utilisateur crée une grande boule de feu et la projette vers sa cible. La boule de feu explose à l’impact.  
 
 ---  
 
@@ -294,11 +291,10 @@ L’utilisateur crée un tourbillon créant une force d’attraction très forte
 
 ---
 
-### **12. Dôme aqueux**  
+### **12. Dôme ardent**  
 
 **### DESCRIPTION ###**  
-L’utilisateur forme un dôme d’eau qui l’enveloppe.
-Le dôme bloque toutes attaques inférieur à 800 de dégâts pendant x temps.
+L’utilisateur forme un dôme de feu qui l’enveloppe. Ce dôme bloque toutes attaques inférieures à **800 de dégâts** pendant **x** temps. Si quelqu’un touche physiquement le dôme, il se blesse.  
 
 ---  
 
@@ -317,10 +313,10 @@ Le dôme bloque toutes attaques inférieur à 800 de dégâts pendant x temps.
 
 ---
 
-### **13. Danse Aqueuse**  
+### **13. Souffle ardent**  
 
 **### DESCRIPTION ###**  
-L’utilisateur forme une spirale d’eau qui inflige des dégâts et projette son adversaire.
+L’utilisateur crée un souffle enflammé qui touche tout ce qui se trouve devant lui.  
 
 ---  
 
@@ -339,11 +335,10 @@ L’utilisateur forme une spirale d’eau qui inflige des dégâts et projette s
 
 ---
 
-### **14. Inondation partiel**  
+### **14. Nuage ardent**  
 
 **### DESCRIPTION ###**  
-L’utilisateur déploie une quantité d’eau au sol.
-Rentrer dans la zone réduit de 50% la vitesse de déplacement 
+L’utilisateur crache une quantité de fumée brûlante cachant la vision et empêchant sa cible d’approcher.  
 
 ---  
 
@@ -362,12 +357,10 @@ Rentrer dans la zone réduit de 50% la vitesse de déplacement
 
 ---
 
-### **15. Recharge de chakra**  
+### **15. Expulsion Ardente**  
 
 **### DESCRIPTION ###**  
-L’utilisateur se concentre afin de transformer l’humidité environnante en chakra.
-L’utilisateur peu se mouvoir mais le mouvement stop l’attaque.
-La technique arrivant à sa fin, l’utilisateur gagne 50% de son chakra total.
+L’utilisateur se concentre afin de lock son adversaire. Une fois locké, l’utilisateur fonce vers sa cible et crée une explosion qui la propulse.  
 
 ---  
 
@@ -382,15 +375,16 @@ La technique arrivant à sa fin, l’utilisateur gagne 50% de son chakra total.
 ---  
 
 **### REFS/ILLUSTRATION ###**  
-*None*
+*None*  
 
 ---
+
 ## **RANG S**  
 
-### **16. Typhon**  
+### **16. Tornade**  
 
 **### DESCRIPTION ###**  
-L’utilisateur crée un tourbillon créant une force d’attraction très forte. 
+L’utilisateur crée une tornade ayant une force d’attraction moyenne sur un périmètre de **x unités** autour d’elle.  
 
 ---  
 
@@ -409,17 +403,18 @@ L’utilisateur crée un tourbillon créant une force d’attraction très forte
 
 ---
 
-### **17. Typhon**  
+### **17. Pluie de météorites**  
 
 **### DESCRIPTION ###**  
-L’utilisateur crée un large raz de marée, le projetant alors vers sa cible.
-La vague avance jusqu’à un point d’impact avant d’exploser.
+L’utilisateur fait tomber une pluie de météorites qui explose à l’impact. Les météorites tombent aléatoirement.  
 
 ---  
 
 **### DONNÉES ###**  
 
-| PROPRIÉTÉ            | VALEUR | ÉCHELLE  |  
+| PROPRIÉ
+
+TÉ            | VALEUR | ÉCHELLE  |  
 |----------------------|--------|----------|  
 | **DÉGÂTS**          | 0      | None     |  
 | **CHAKRA**          | 0      | None     |  
@@ -429,8 +424,3 @@ La vague avance jusqu’à un point d’impact avant d’exploser.
 
 **### REFS/ILLUSTRATION ###**  
 *None*  
-
----
-
-
----
