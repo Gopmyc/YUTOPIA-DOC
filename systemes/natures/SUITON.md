@@ -26,8 +26,6 @@
 
 ---
 
-Cette fois, tout est bien conforme aux techniques précédemment définies.
-
 ## Informations Générales sur les Sweps
 
 - **Utilisation des sweps :**  
