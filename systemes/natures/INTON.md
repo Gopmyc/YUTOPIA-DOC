@@ -51,7 +51,7 @@
 
 ### SWEPS [Shuriken d’ombres] :
   #### **Description :**
-	L’utilisateur projet  de manierer simultané entre 2 et 4 projectiles devant lui.
+	L’utilisateur projette de maniere simultané entre 2 et 4 projectiles devant lui.
 
   #### **Informations Générales :**
   | **Champ**                  | **Détail**                                  |
@@ -135,7 +135,7 @@
   | **Force appliquée**             | `N/A` |
   | **Zone d'effet**                | `120` |
   | **Dégâts**                       | `0` |
-  | **Effet sur les ennemis**       | `Degats` |
+  | **Effet sur les ennemis**       | `Degats + projection` |
   | **Modification de mouvement**   | `N/A` |
 
 ---
@@ -238,7 +238,7 @@
   | **Force appliquée**             | `N/A` |
   | **Zone d'effet**                | `N/A` |
   | **Dégâts**                      | `0` |
-  | **Effet sur les ennemis**       | `N/A` |
+  | **Effet sur les ennemis**       | `degats` |
   | **Modification de mouvement**   | `STUN` |
   | **Effet impact**                | `Crée des entitées (MODELS : [models/mm_entrave/mm_entrave.mdl], COLOR : [0, 0, 0, 255]) sur les cibles touchées puis une fois l'animation joué les entitées sont remplacé par les entitées (MODELS : [models/mm_entravestatic/mm_entravestatic.mdl], COLOR : [0, 0, 0, 255]), les entitées dispawn au bout de 5 secondes)` |
 
@@ -292,7 +292,7 @@
   | **Force appliquée**             | `N/A` |
   | **Zone d'effet**                | `1000` |
   | **Dégâts**                      | `0` |
-  | **Effet sur les ennemis**       | `STUN` |
+  | **Effet sur les ennemis**       | `degat` |
   | **Modification de mouvement**   | `STUN` |
   | **Effet impact**                | `Crée des entitées (MODELS : [models/mm_entrave/mm_entrave.mdl], COLOR : [0, 0, 0, 255]) sur les cibles touchées puis une fois l'animation joué les entitées sont remplacé par les entitées (MODELS : [models/mm_entravestatic/mm_entravestatic.mdl], COLOR : [0, 0, 0, 255]), les entitées dispawn au bout de 5 secondes)` |
 
